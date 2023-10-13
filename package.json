@@ -1,0 +1,22 @@
+{
+  "name": "nodejs2",
+  "version": "1.0.0",
+  "description": "node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieungoctrinh1/abc.git"
+  },
+  "keywords": [
+    "abc"
+  ],
+  "author": "hieu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hieungoctrinh1/abc/issues"
+  },
+  "homepage": "https://github.com/hieungoctrinh1/abc#readme"
+}
